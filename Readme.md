@@ -1,14 +1,6 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
-
-
-## Usage
-
-- Clone this repo
-- Run `npm install` to install all necessary dependencies
-- Run `gulp start` to start the server and a handful of other tasks
-
+This project utilized AngularJS to construct a Contact Form.  The Contact Form had built-in alert error messages related to faulty email and website address entries. A participant could not submit their entries until a valid name, email address, website address and any form of comment were supplied. Valid submissions became live, stored data in the (Parse) database.  
 
 ## Assets Installed By Default
 
@@ -21,20 +13,8 @@
 - [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
 - [Foundation 5](http://foundation.zurb.com/)
 
-#### How to use them?
 
-At the top of your `main.scss` file, just import any of the following:
 
-```scss
-@import "bourbon";
-@import "neat";
-
-@import "foundation";
-
-@import "font-awesome";
-```
-
-> Note: You probably don't want to use BOTH Bourbon/Neat & Foundation. Just pick one.
 
 ## NPM Tools Used
 
@@ -44,3 +24,5 @@ At the top of your `main.scss` file, just import any of the following:
 - [SASS](http://sass-lang.com/)
 - [Mocha](https://mochajs.org/)
 - [Chai](http://chaijs.com/)
+- [AngularJS]
+- [Angular-ui-router]

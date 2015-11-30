@@ -24,5 +24,4 @@ This project utilized AngularJS to construct a Contact Form.  The Contact Form h
 - [SASS](http://sass-lang.com/)
 - [Mocha](https://mochajs.org/)
 - [Chai](http://chaijs.com/)
-- [AngularJS]
-- [Angular-ui-router]
+
